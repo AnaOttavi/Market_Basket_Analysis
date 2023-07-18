@@ -3,6 +3,7 @@
 Business Case - Master's degree in Data Science
 
 This repository contains:
+- jupyter notebook
 - dataset
 - report
 - presentation
